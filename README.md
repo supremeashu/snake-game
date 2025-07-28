@@ -1,7 +1,8 @@
 # Snake Game 🐍
 
 A classic Snake game implementation in C++ using Object-Oriented Programming principles. Navigate the snake around the grid, eat fruits to grow longer, and avoid collisions!
-
+## Deployed Link 
+  https://supremeashu.github.io/snake-game/
 ## 🎮 Game Features
 
 - **Classic Snake Gameplay**: Control a snake that grows longer as it eats fruits
